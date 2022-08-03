@@ -1,2 +1,2 @@
-# First-Projects-
-A collection of mini projects I did to practice new commands and skills as I learned them.
+# First Python Projects
+This is the collection of projects I did to practice as I was first learning the very basics of Python.
